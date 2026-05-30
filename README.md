@@ -1,6 +1,6 @@
 
 
-# Vocallabs.ai Product Teardown
+# Vocallabs.ai Product Teardown.
 
 ## Product Intern Assignment Submission
 
